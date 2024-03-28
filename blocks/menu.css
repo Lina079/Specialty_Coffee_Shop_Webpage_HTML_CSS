@@ -1,0 +1,142 @@
+.menu {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url(../images/background_menu.svg);
+  background-color: #fff;
+}
+
+.menu__title {
+  display: flex;
+  justify-content: center;
+  padding: 0%;
+  margin-top: 30px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
+}
+
+.menu__subtitle {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-self: center;
+  gap: 24px;
+  padding: 0%;
+  margin-top: 24px;
+  margin-bottom: 100px;
+  width: 845px;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.menu__card-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0%;
+  gap: 120px;
+  width: 540px;
+}
+
+.card__list-item {
+  display: flex;
+  line-height: 5px;
+  width: 600px;
+  align-items: center;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.card__list-divider {
+  flex-grow: 1;
+  height: 10px;
+  border-bottom: solid;
+  border-width: 1px;
+  color: #838383;
+}
+
+.card__title-content {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.menu__name-item {
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.menu__price-item {
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.card__content-reposteria {
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  margin-right: 100px;
+  width: 540px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.card__title-content-reposteria {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.card__list-item-reposteria {
+  display: flex;
+  line-height: 5px;
+  width: 600px;
+  align-items: center;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.menu__name-item-reposteria {
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.menu__price-item-reposteria {
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.card__list-divider-reposteria {
+  flex-grow: 1;
+  height: 10px;
+  border-bottom: solid;
+  border-width: 1px;
+  color: #838383;
+}
