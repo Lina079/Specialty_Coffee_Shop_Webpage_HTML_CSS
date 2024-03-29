@@ -47,19 +47,19 @@
   margin-right: 100px;
 }
 
-.top-content {
+.menu__top-content {
   display: flex;
   justify-content: space-between;
   gap: 100px;
 }
 
-.bottom-content {
+.menu__bottom-content {
   align-self: center;
   margin-top: 100px;
   margin-bottom: 100px;
 }
 
-.card__list-item {
+.menu__list-item {
   display: flex;
   line-height: 5px;
   width: 600px;
@@ -69,7 +69,7 @@
   padding: 0;
 }
 
-.card__list-divider {
+.menu__list-divider {
   flex-grow: 1;
   height: 10px;
   border-bottom: solid;
