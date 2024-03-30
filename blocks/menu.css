@@ -1,8 +1,9 @@
 .menu {
   display: flex;
   flex-direction: column;
-  position: relative;
   background-size: cover;
+  position: relative;
+  text-align: center;
   background-repeat: no-repeat;
   background-position: center;
   background-image: url(../images/background_menu.svg);
@@ -12,8 +13,10 @@
 .menu__title {
   display: flex;
   justify-content: center;
-  padding: 0%;
-  margin-top: 70px;
+  align-self: center;
+  margin-top: 50px;
+  width: 845px;
+  text-align: center;
   font-family: "Inter";
   font-style: normal;
   font-weight: 500;
@@ -26,11 +29,9 @@
   justify-content: center;
   text-align: center;
   align-self: center;
-  gap: 24px;
-  padding: 0%;
   margin-top: 24px;
-  margin-bottom: 100px;
   width: 845px;
+  margin-bottom: 70px;
   font-family: "Noto Serif";
   font-style: normal;
   font-weight: normal;
@@ -40,27 +41,46 @@
 
 .menu__cards {
   display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  margin-bottom: 100px;
-  margin-left: 100px;
-  margin-right: 100px;
-}
-
-.menu__top-content {
-  display: flex;
-  justify-content: space-between;
+  flex-wrap: wrap;
+  justify-content: center;
   gap: 100px;
+  margin-bottom: 100px;
 }
 
-.menu__bottom-content {
-  align-self: center;
-  margin-top: 100px;
-  margin-bottom: 100px;
+.menu__card-title {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30p;
+  margin-bottom: 32px;
+  margin-top: 0;
+  text-align: left;
+}
+
+.menu__card {
+  flex: 1;
+  max-width: 540px;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 50px;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.menu__card-content {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
 }
 
 .menu__list-item {
   display: flex;
+  justify-content: space-between;
+  margin-bottom: 16px;
   line-height: 5px;
   width: 600px;
   align-items: center;
@@ -75,30 +95,4 @@
   border-bottom: solid;
   border-width: 1px;
   color: #838383;
-}
-
-.card__title {
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: bold;
-  font-size: 20px;
-  line-height: 30px;
-  margin-bottom: 32px;
-}
-
-.menu__name-item {
-  font-family: "Noto Serif";
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 20px;
-  margin-bottom: 16px;
-}
-
-.menu__price-item {
-  font-family: "Noto Serif";
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 20px;
 }
