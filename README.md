@@ -18,3 +18,7 @@ El proyecto es el resultado del estudio teorico avanzado de HTML y CSS, permitie
 Planes de mejora del Proyecto:
 
 Si bien el proyecto esta bien estructurado y es muy intuitivo para el usuario, siempre es muy importante recibir feeback de los clientes y sus experiencias, por lo que, en mi caso, adicionaria este espacio a la pagina, tambien es importante encotrar reviews de los usuarios, y ojala en poder enlazarla con aplicaciones como Tripadvisor.
+
+Sitio web del proyecto:
+
+https://lina079.github.io/web_project_coffeeshop/
