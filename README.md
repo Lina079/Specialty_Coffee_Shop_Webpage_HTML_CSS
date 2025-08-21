@@ -1,24 +1,53 @@
-# web_project_coffeeshop
+#  Specialty Coffee Shop Web Page – Página Web de Cafetería Especializada (HTML & CSS)
 
-Nombre del proyecto:
+##  Descripción (Español)
+Este proyecto es una página web responsive creada con **HTML5** y **CSS3**, diseñada para simular una cafetería de especialidad llamada *Triple Peaks*. Ofrece secciones completas de recetas, reservación de mesas, menú y contacto.
 
-Project sprint 3
+###  Funcionalidades
+- Diseño adaptable a dispositivos móviles y escritorio.  
+- Estructura semántica clara con HTML.  
+- Estilos organizados en CSS con clases reutilizables.  
+- Diseño limpio inspirado en layout de cafeterías acogedoras.
 
-Descripción del proyecto:
+###  Propósito
+Creado como práctica frontend durante mi formación como **Desarrolladora Full Stack**, este proyecto me permitió trabajar sobre estructuración de contenido, formularios, y diseño visual funcional.
 
-El proyecto es el resultado del estudio teorico avanzado de HTML y CSS, permitiendo demostrar mis habilidades adquiridas tales como:
+###  Tecnologías
+- **HTML5**  
+- **CSS3**  
+- **Git/GitHub**
 
-- Manejo eficiente de las herramienta Git y GitHub,
-- Uso de iframe, embed, API,
-- tecnicas especializada de manejo de colores, degaradados, sombreados,
-- BEM y Flexbox,
-- Formularios,
-  Entre otras cosas.
+###  Demostración en Vivo
+🔗 [Ver Proyecto en Vivo](https://lina079.github.io/web_project_coffeeshop/)
 
-Planes de mejora del Proyecto:
+---
 
-Si bien el proyecto esta bien estructurado y es muy intuitivo para el usuario, siempre es muy importante recibir feeback de los clientes y sus experiencias, por lo que, en mi caso, adicionaria este espacio a la pagina, tambien es importante encotrar reviews de los usuarios, y ojala en poder enlazarla con aplicaciones como Tripadvisor.
+##  English Version
 
-Sitio web del proyecto:
+###  Description
+**Specialty Coffee Shop Web Page – Página Web de Cafetería Especializada** is a responsive web page built with **HTML5** and **CSS3**, designed to simulate a specialty coffee shop called *Triple Peaks*, including sections for recipes, table reservations, menu, and contact.
 
-https://lina079.github.io/web_project_coffeeshop/
+###  Features
+- Responsive layout for desktop and mobile.  
+- Semantic HTML structure.  
+- Clean CSS with reusable classes.  
+- Cozy, café-inspired design.
+
+###  Purpose
+Developed as part of my Full Stack Developer training, this frontend project allowed me to practice content structuring, form handling, and visual design.
+
+###  Tech Stack
+- **HTML5**  
+- **CSS3**  
+- **Git/GitHub**
+
+###  Live Demo
+🔗 [View Live Project](https://lina079.github.io/web_project_coffeeshop/)
+
+---
+
+##  Autora | Author
+**Lina Castro** – aspirante a Desarrolladora Full Stack  
+Profesional con experiencia en enfoque al cliente, ahora orientada a crear soluciones digitales funcionales y estéticamente agradables.  
+With a strong customer-oriented background, now focused on building functional and visually pleasing digital solutions.
+
